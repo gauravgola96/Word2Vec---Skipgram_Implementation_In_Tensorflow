@@ -12,7 +12,7 @@ from sklearn.manifold import TSNE
 from sklearn.cluster import KMeans
 import nltk # standard preprocessing
 import operator # sorting items in dictionary by value
-#nltk.download() #tokenizers/punkt/PY3/english.pickle
+##nltk.download() #tokenizers/punkt/PY3/english.pickle
 from math import ceil
 
 
